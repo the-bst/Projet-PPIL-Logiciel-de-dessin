@@ -1,5 +1,5 @@
 # Projet-PPIL-Logiciel-de-dessin
-Logiciel de dessin Client++ / Serveur Java
+Logiciel de dessin Client C++ / Serveur Java
 
 
 Executable du Client: Client1/Debug/Client1.exe
