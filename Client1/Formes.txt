@@ -1,0 +1,15 @@
+FormeComplexe couleur 255 [Polygone couleur 255 {(50.00,50.00);(50.00,90.00);(150.00,90.00);(150.00,50.00)}|Cercle rayon 80 couleur 255 (1.00,1.00)]
+FormeComplexe couleur 255 [Polygone couleur 255 {(50.00,50.00);(50.00,90.00);(150.00,90.00);(150.00,50.00)}|Cercle rayon 80 couleur 255 (1.00,1.00)]
+FormeComplexe couleur 255 [Polygone couleur 255 {(50.00,50.00);(50.00,90.00);(150.00,90.00);(150.00,50.00)}|Cercle rayon 80 couleur 255 (1.00,1.00)]
+FormeComplexe couleur 255 [Polygone couleur 255 {(50.00,50.00);(50.00,90.00);(150.00,90.00);(150.00,50.00)}|Cercle rayon 80 couleur 255 (1.00,1.00)]
+FormeComplexe couleur 255 [Polygone couleur 255 {(50.00,50.00);(50.00,90.00);(150.00,90.00);(150.00,50.00)}|Cercle rayon 80 couleur 255 (1.00,1.00)]
+FormeComplexe couleur 255 [Polygone couleur 255 {(50.00,50.00);(50.00,90.00);(150.00,90.00);(150.00,50.00)}|Cercle rayon 80 couleur 255 (1.00,1.00)]
+FormeComplexe couleur 255 [Polygone couleur 255 {(50.00,50.00);(50.00,90.00);(150.00,90.00);(150.00,50.00)}|Cercle rayon 80 couleur 255 (1.00,1.00)]
+FormeComplexe couleur 255 [Polygone couleur 255 {(50.00,50.00);(50.00,90.00);(150.00,90.00);(150.00,50.00)}|Cercle rayon 80 couleur 255 (1.00,1.00)]
+FormeComplexe couleur 255 [Polygone couleur 0 {(50.00,50.00);(50.00,90.00);(150.00,90.00);(150.00,50.00)}|Cercle rayon 80 couleur 255 (1.00,1.00)]
+FormeComplexe couleur 255 [Polygone couleur 0 {(50.00,50.00);(50.00,90.00);(150.00,90.00);(150.00,50.00)}|Cercle rayon 80 couleur 255 (1.00,1.00)]
+FormeComplexe couleur 255 [Polygone couleur 0 {(50.00,50.00);(50.00,90.00);(150.00,90.00);(150.00,50.00)}|Cercle rayon 80 couleur 255 (1.00,1.00)]
+Segment couleur 65280 (1.00,1.00);(75.00,85.00)
+Segment couleur 65280 (1.00,1.00);(75.00,85.00)
+Segment couleur 65280 (1.00,1.00);(75.00,85.00)
+Segment couleur 65280 (1.00,1.00);(75.00,85.00)

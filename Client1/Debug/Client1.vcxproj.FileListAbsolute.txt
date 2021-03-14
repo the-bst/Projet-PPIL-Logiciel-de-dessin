@@ -1,0 +1,2 @@
+C:\Users\basti\Desktop\Client1\Debug\Client1.exe
+C:\Users\basti\Desktop\Client1\Debug\Client1.pdb
